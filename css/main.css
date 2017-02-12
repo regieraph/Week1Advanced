@@ -14,5 +14,57 @@ body {
 
 /*call to action section*/
 #cta {
-  background-image: url{../img/bg1.png}
+  background-image: url{../img/bg1.png};
+  height: 800px;
+  text-align: center;
+  
 }
+
+#cta h1 {
+  color: #ffffff;
+  font-size: 120px;
+  font-weight: 700;
+  line-height: 47px;
+  margin-bottom: 60px;
+  margin-top: 0;
+  padding-top: 225px;
+  text-align: center;
+  
+}
+
+#cta hr {
+  border-color: #15a4fa;
+  margin: 0 auto;
+  width: 50%;
+
+}
+
+#cta h2 {
+  color: #ffffff;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 47px;
+  text-align: center;
+  
+}
+
+#cta button {
+  background-color: transparent;
+  border-right: transparent;
+  border-bottom: transparent;
+  border-top: 1px solid #15a4fa;
+  border-left: 1px solid #15a4fa;
+  border-radius: 2px;
+  color: #fff;
+  cursor: pointer;
+  padding: 10px 15px;
+}
+
+#cta a {
+  color: #fff;
+  display: inline-block;
+  margin-top: 100px;
+}
+
+
+  
