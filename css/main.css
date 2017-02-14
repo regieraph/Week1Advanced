@@ -259,6 +259,21 @@ body {
     padding: 7px 9px;
   }   
   
+  @media (max-width:544px) {
+  .box > h3 , p {
+    display: none;
+  }
+
+@media (max-width:545px)  {
+  #socialMedia {
+    margin: 0 50px 20px 5px;
+    width: 100%;
+    border: 20px;
+
+
+  }
+
+  
   
     
   
