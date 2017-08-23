@@ -1,5 +1,5 @@
 * {
-  font-family: "Lato", sans-serif;
+  font-family: sans-serif;
 }
 
 body {
@@ -26,7 +26,7 @@ body {
   font-weight: 700;
   line-height: 47px;
   margin-bottom: 60px;
-  margin-top: 0;
+  margin-top: 2px;
   padding-top: 225px;
   text-align: center;
   
